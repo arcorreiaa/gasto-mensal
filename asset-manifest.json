@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gasto-mensal/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/gasto-mensal/static/js/main.0bac8dda.chunk.js",
+    "main.js.map": "/gasto-mensal/static/js/main.0bac8dda.chunk.js.map",
+    "runtime-main.js": "/gasto-mensal/static/js/runtime-main.6a5a5717.js",
+    "runtime-main.js.map": "/gasto-mensal/static/js/runtime-main.6a5a5717.js.map",
+    "static/js/2.3202855a.chunk.js": "/gasto-mensal/static/js/2.3202855a.chunk.js",
+    "static/js/2.3202855a.chunk.js.map": "/gasto-mensal/static/js/2.3202855a.chunk.js.map",
+    "static/js/3.985e98ee.chunk.js": "/gasto-mensal/static/js/3.985e98ee.chunk.js",
+    "static/js/3.985e98ee.chunk.js.map": "/gasto-mensal/static/js/3.985e98ee.chunk.js.map",
+    "index.html": "/gasto-mensal/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/gasto-mensal/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3202855a.chunk.js.LICENSE.txt": "/gasto-mensal/static/js/2.3202855a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a5a5717.js",
+    "static/js/2.3202855a.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0bac8dda.chunk.js"
+  ]
+}
